@@ -257,7 +257,7 @@ aside li::after{
     display: grid;
     grid-template-columns: repeat(3,calc(34% - 10px));
     grid-template-rows: 100px calc(50% - 50px) calc(50% - 50px);
-    padding: 100px;
+    padding: 120px;
     box-sizing: border-box;
 }
 .services .heading{
