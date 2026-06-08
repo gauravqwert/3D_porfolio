@@ -276,7 +276,7 @@ aside li::after{
     transition-duration: 0.25s;
 }
 .services .service i{
-    font-size: 3rem;
+    font-size: 2rem;
     color: tomato;
 }
 .services .service .service-icon{
