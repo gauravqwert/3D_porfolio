@@ -280,7 +280,7 @@ aside li::after{
     color: tomato;
 }
 .services .service .service-icon{
-    padding: 0px 35px;
+    padding: 0px 25px;
     border-radius: 5px;
     margin: 20px auto;
 }
